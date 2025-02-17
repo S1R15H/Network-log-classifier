@@ -1,0 +1,24 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+*.egg-info/
+
+# Ignore dependency packages
+node_modules/
+*.log
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore CICFlowMeter and logs
+output_csv/
+*.pcap
+logs/
+
+.idea/
