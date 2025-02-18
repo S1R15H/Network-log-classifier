@@ -21,6 +21,7 @@ to evaluate a model's usefulness.
 variables present in UNSW-NB15 dataset, from a .pcap file. I plan to program it so that I will be able
 to input a raw .pcap file for classification.
 
+- `environment.yml/requirements.txt` should contain all the dependencies used.
 - `Datasets` contains all the training and testing datasets I used. Also the one I used to predict and valuate.
 ## **Multi-layer Perceptrons**
 
